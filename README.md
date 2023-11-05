@@ -9,4 +9,4 @@
     <img height="20" src="https://img.shields.io/github/followers/K-8810?label=follow&logo=github&style=flat" />
   </a>
 </p>
-[![github-chart](https://github-chart.vercel.app/api?user=rokumura7)](https://github.com/rokumura7/github-chart)
+
